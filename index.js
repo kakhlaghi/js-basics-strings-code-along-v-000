@@ -2,3 +2,4 @@
 let currentUser = "Something"
 
 let welcomeMessage = "Welcome to Facebook, "
+
