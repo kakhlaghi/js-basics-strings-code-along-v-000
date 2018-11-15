@@ -1,4 +1,4 @@
 // Write your code in this file!
 let currentUser = "Something"
 
-let welcomeMessage = ""
+let welcomeMessage = "Welcome to Facebook"
